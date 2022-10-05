@@ -8,13 +8,13 @@ const Footer = () => {
           <h2>Follow Us</h2>
           <ul>
             <li className="footer-list">
-              <a href="#">Facebook</a>
+              <a href="#"> Facebook </a>
             </li>
             <li className="footer-list">
-              <a href="#">Instagram</a>
+              <a href="#"> Instagram </a>
             </li>
             <li className="footer-list">
-              <a href="#">Youtube</a>
+              <a href="#"> Youtube </a>
             </li>
           </ul>
         </div>
@@ -28,7 +28,9 @@ const Footer = () => {
       </footer>
       <div className="footer-center">
         <hr className="line"></hr>
-        <h6>All Copy Right Reserved</h6>
+        <h6>All rights reserved</h6><br/>
+        <h7>Copyright license</h7><br/>
+        
       </div>
     </>
   );
